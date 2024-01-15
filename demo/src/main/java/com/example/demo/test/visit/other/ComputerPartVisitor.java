@@ -1,4 +1,4 @@
-package com.example.demo.test.visit;
+package com.example.demo.test.visit.other;
 
 public interface ComputerPartVisitor {
    public void visit(Computer computer);

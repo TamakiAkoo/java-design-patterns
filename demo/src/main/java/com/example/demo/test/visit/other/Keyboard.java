@@ -1,6 +1,6 @@
-package com.example.demo.test.visit;
+package com.example.demo.test.visit.other;
 
-public class Mouse  implements ComputerPart {
+public class Keyboard  implements ComputerPart {
  
    @Override
    public void accept(ComputerPartVisitor computerPartVisitor) {

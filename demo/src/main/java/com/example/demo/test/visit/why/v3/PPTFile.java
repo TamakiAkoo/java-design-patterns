@@ -1,8 +1,8 @@
 package com.example.demo.test.visit.why.v3;
 
-public class PdfFile extends ResourceFileV3 {
+public class PPTFile extends ResourceFileV3 {
 
-    public PdfFile(String filePath) {
+    public PPTFile(String filePath) {
         super(filePath);
     }
 

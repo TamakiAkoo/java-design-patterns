@@ -1,10 +1,5 @@
 package com.example.demo.test.visit.why.v2;
 
-import com.example.demo.test.visit.why.Extractor;
-import com.example.demo.test.visit.why.PPTFile;
-import com.example.demo.test.visit.why.PdfFile;
-import com.example.demo.test.visit.why.ResourceFile;
-import com.example.demo.test.visit.why.WordFile;
 import java.util.ArrayList;
 import java.util.List;
 

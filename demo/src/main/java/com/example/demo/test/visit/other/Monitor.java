@@ -1,4 +1,4 @@
-package com.example.demo.test.visit;
+package com.example.demo.test.visit.other;
 
 public class Monitor  implements ComputerPart {
  

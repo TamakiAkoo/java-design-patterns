@@ -1,4 +1,4 @@
-package com.example.demo.test.visit.why;
+package com.example.demo.test.visit.why.v1;
 
 public abstract class ResourceFile {
   protected String filePath;
